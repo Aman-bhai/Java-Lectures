@@ -28,7 +28,7 @@ class Student {
 public class ClassesAndObject {
     public static void main(String[] args) {
         // Creating first object of Student
-        Student student1 = new Student();
+        Student student1 = new Student();  // new is used to crease object dynamically
         student1.setDetails(101, "Raj", "Java", 85.5);
         student1.displayDetails();
 
