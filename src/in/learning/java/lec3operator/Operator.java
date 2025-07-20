@@ -1,4 +1,4 @@
-package in.learning.java.operator;
+package in.learning.java.lec3operator;
 
 public class Operator {
 

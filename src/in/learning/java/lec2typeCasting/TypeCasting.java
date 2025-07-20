@@ -1,4 +1,4 @@
-package in.learning.java.typeCasting;
+package in.learning.java.lec2typeCasting;
 
 public class TypeCasting {
 	public static void main(String []args) {

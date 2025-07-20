@@ -1,4 +1,4 @@
-package in.learning.java.loopingStatements;
+package in.learning.java.lec5loopingStatements;
 
 import java.util.Scanner;
 

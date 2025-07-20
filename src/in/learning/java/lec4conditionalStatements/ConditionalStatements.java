@@ -1,4 +1,4 @@
-package in.learning.java.conditionalStatements;
+package in.learning.java.lec4conditionalStatements;
 
 import java.util.Scanner;
 
