@@ -1,4 +1,4 @@
-package in.learning.java.lec9.ComparablesAndComparators;
+package in.learning.java.lec9ComparablesAndComparators;
 
 /**
  * ============================================================
