@@ -1,4 +1,4 @@
-package in.learning.java.variable;
+package in.learning.java.lec1variable;
 
 public class Variables {
 
